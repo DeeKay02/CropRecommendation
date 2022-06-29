@@ -1,4 +1,4 @@
-# CropRecommendation
+# Optimized Crop Recommendation and Visualization
 
 In this project I will be taking data of different factors  affecting the production of a plant or a crop like<br />
 • N – Ratio of Nitrogen content in the soil<br />
